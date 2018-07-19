@@ -8,13 +8,14 @@ npm install
 ## Usage
 Make sure to have mongo running locally
 ```bash
-monogd
+mongod
 ```
 Start the service
 ```bash
 npm start
 ```
 Use
+Calls from Postman
 ```bash
 POST /users
 
